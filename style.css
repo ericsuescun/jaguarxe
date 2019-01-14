@@ -61,11 +61,6 @@ body {
 	padding-bottom: 10px;
 }
 
-/*.solido {
-	opacity: 1;
-	color: white;
-}*/
-
 @media (max-width: 760px) {
 	.cuadro {
 		font-family: 'Roboto', sans-serif;
