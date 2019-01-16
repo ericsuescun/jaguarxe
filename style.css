@@ -6,26 +6,10 @@ body {
 	background-image: url("https://s3.amazonaws.com/makeitreal/cars/jaguar-xe.jpg");
 	background-repeat: no-repeat;
 	background-position: top center;
+	background-attachment: fixed;
 	background-size: cover;
 }
 
-@media (max-width: 768px) {
-	body {
-		background-image: url("https://s3.amazonaws.com/makeitreal/cars/jaguar-xe.jpg");
-		background-repeat: no-repeat;
-		background-position: top center;
-		background-size: auto 6500%;
-		}
-}
-
-@media (min-width: 1200px) {
-	body {
-		background-image: url("https://s3.amazonaws.com/makeitreal/cars/jaguar-xe.jpg");
-		background-repeat: no-repeat;
-		background-position: top center;
-    	padding: 0;
-	}
-}
 
 .container {
 	width: 100%;
